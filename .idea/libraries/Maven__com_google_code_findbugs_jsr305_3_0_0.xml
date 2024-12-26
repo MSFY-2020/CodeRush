@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.code.findbugs:jsr305:3.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../大数据技术与应用专业/JAVA EE/Spring/maven/repository/com/google/code/findbugs/jsr305/3.0.0/jsr305-3.0.0.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../大数据技术与应用专业/JAVA EE/Spring/maven/repository/com/google/code/findbugs/jsr305/3.0.0/jsr305-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

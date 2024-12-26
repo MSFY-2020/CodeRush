@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: commons-net:commons-net:3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../大数据技术与应用专业/JAVA EE/Spring/maven/repository/commons-net/commons-net/3.1/commons-net-3.1.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../大数据技术与应用专业/JAVA EE/Spring/maven/repository/commons-net/commons-net/3.1/commons-net-3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: org.ow2.asm:asm:5.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../大数据技术与应用专业/JAVA EE/Spring/maven/repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../大数据技术与应用专业/JAVA EE/Spring/maven/repository/org/ow2/asm/asm/5.0.4/asm-5.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

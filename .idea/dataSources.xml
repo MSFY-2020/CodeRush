@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="coderush" uuid="4429c619-62fc-47cb-b91f-833466d599b2">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://175.178.196.83:3306/hbase</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="TenCent" uuid="c7345f75-7159-49e4-ada1-65e980ddd988">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://124.221.138.183:3306/mysql</jdbc-url>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.zookeeper:zookeeper:3.4.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../大数据技术与应用专业/JAVA EE/Spring/maven/repository/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../大数据技术与应用专业/JAVA EE/Spring/maven/repository/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

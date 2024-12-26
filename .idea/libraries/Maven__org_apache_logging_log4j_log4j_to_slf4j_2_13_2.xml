@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.logging.log4j:log4j-to-slf4j:2.13.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../大数据技术与应用专业/JAVA EE/Spring/maven/repository/org/apache/logging/log4j/log4j-to-slf4j/2.13.2/log4j-to-slf4j-2.13.2.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../大数据技术与应用专业/JAVA EE/Spring/maven/repository/org/apache/logging/log4j/log4j-to-slf4j/2.13.2/log4j-to-slf4j-2.13.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

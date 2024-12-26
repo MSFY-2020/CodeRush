@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "community",
+      "type": "com.yisen.hbaseboot.config.CommunityConfig",
+      "sourceType": "com.yisen.hbaseboot.config.CommunityConfig"
+    },
+    {
+      "name": "video",
+      "type": "com.yisen.hbaseboot.config.VideoConfig",
+      "sourceType": "com.yisen.hbaseboot.config.VideoConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "community.communities",
+      "type": "java.util.List<java.util.Map<java.lang.String,java.lang.String>>",
+      "sourceType": "com.yisen.hbaseboot.config.CommunityConfig"
+    },
+    {
+      "name": "video.videos",
+      "type": "java.util.List<java.util.Map<java.lang.String,java.lang.String>>",
+      "sourceType": "com.yisen.hbaseboot.config.VideoConfig"
+    }
+  ],
+  "hints": []
+}
